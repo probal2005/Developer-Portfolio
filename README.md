@@ -742,11 +742,11 @@ portfolio/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/probal2005/probal2005.github.io.git
+git clone https://github.com/https://probal2005.github.io/Developer-Portfolio.git
 ```
 
 ```bash
-cd probal2005.github.io
+cd Developer-Portfolio
 ```
 
 ---
