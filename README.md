@@ -813,7 +813,7 @@ export const personalData = {
 
   github: "https://github.com/probal2005",
 
-  portfolio: "https://probaldhali.000.bd",
+  portfolio: "https://probal2005.github.io/Developer-Portfolio/",
 };
 ```
 
