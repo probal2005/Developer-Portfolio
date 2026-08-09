@@ -14,7 +14,7 @@
   <a href="https://github.com/probal2005">
     <img src="https://img.shields.io/badge/GitHub-Probal%20Dhali-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://probaldhali.000.bd">
+  <a href="https://github.com/probal2005/Developer-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&logo=vercel" alt="Portfolio">
   </a>
 </p>
@@ -850,7 +850,7 @@ DATABASE_URL=your_database_url
 
 ## Live Website
 
-https://probaldhali.000.bd
+https://github.com/probal2005/Developer-Portfolio/
 
 ## GitHub
 
@@ -965,7 +965,7 @@ For collaboration, academic projects, software development or professional oppor
 
 ### Portfolio
 
-https://probaldhali.000.bd
+https://github.com/probal2005/Developer-Portfolio/
 
 ### GitHub
 
